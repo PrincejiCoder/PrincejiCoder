@@ -1,6 +1,6 @@
 # Hey There 👋.
 
-I'm  _Prince_ a **CST developer** and **builder** based in **India**.
+I'm  [**Prince**](https://github.com/PrincejiCoder) a **CST developer** and **builder** based in **India**.
 
 I chose CST so I could have the technical freedom to build whatever I can imagine. If any idea pops into my head, I build it and ship it.
 
